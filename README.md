@@ -1,4 +1,4 @@
-A terminal command that watches for the module file in your julia project and run `report_packages()` function from JET analisys package 
+A terminal command that watches for "last modified date" for the module file in your julia project and run `report_packages()` function from JET analisys package 
 ![immagine](https://github.com/user-attachments/assets/b8c2c286-cf7b-4491-a99d-985498af1d26)
 
 ## Usage
