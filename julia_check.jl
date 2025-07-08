@@ -1,9 +1,9 @@
-#!/home/giulio/.juliaup/bin/julia
+#!~/.juliaup/bin/julia
 
-# watch_jet_analysis.jl
+
 using Pkg
 using JET
-using Dates # Per monitorare l'ultima modifica del file
+using Dates 
 
 println("PWD: $(pwd()) \n\n")
 # --- Configurazione ---
