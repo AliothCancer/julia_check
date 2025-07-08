@@ -2,7 +2,7 @@ A terminal command that watches for "last modified date" for the module file in 
 ![immagine](https://github.com/user-attachments/assets/b8c2c286-cf7b-4491-a99d-985498af1d26)
 
 ## Installation
-1. Put this file in a dir that is inside PATH env (i.e. `$HOME/.local/bin`)
+1. Put `julia_check.jl` in a dir that is inside PATH env (i.e. `$HOME/.local/bin`)
 2. Make sure the first line of julia_check.jl is `#!{your julia binary location}`
 
 ## Usage
